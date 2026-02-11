@@ -1,2 +1,2 @@
 # blackjack
-Big Book of Small Python Projects #4
+## _Big Book of Small Python Projects #4_
