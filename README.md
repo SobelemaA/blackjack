@@ -6,3 +6,5 @@ Blackjack ,aka 21, is a card game where players try to get as close to 21 points
 |A  | |10 |
 | ♣ | | ♦ |
 |__A| |_10|
+
+*format cards
